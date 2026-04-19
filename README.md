@@ -11,7 +11,7 @@
 | Category | Restaurants |
 | Full dataset size | 1 records |
 | Free sample size | 1 records (100.0%) |
-| Last export | 2026-04-08T04:11:59.496820+00:00 |
+| Last export | 2026-04-15T08:50:13.513702+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/tech-ready-restaurants-in-vermont-us-sample-404205/releases/download/sample-latest/beamstation_404205_restaurants-us-vt_SAMPLE_DIST.csv) |
 
 ## What is in this sample
