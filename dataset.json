@@ -6,7 +6,7 @@
   "config_category": "sales",
   "config_description": "The \"Low Hanging Fruit.\" They have the budget but need the tech.\n\nRestaurants well-established (Beam Score > 70) and performing (sentiments last 30 days > 10 that lack online reservation AND online ordering\n\nReady for technology adoption and modernization.",
   "config_name": "Tech-Ready Restaurants in Vermont, US",
-  "export_job_id": "6cc6e9f8-97a5-4838-97d6-0dafcea68350",
+  "export_job_id": "0ad2f83a-6d57-4b9c-ba5f-b3ea5800c152",
   "github_org": "Beamstation-Datasets",
   "id_short": 404205,
   "location_name": "Vermont",
@@ -15,8 +15,8 @@
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/404205/beamstation_404205_restaurants-us-vt_SAMPLE_DIST.csv",
   "sample_pct": 100.0,
   "sample_records": 1,
-  "sample_sha256": "854fff7184f9786858ba7b0145da2f07adc059c88b1c3bd843f06e69c9a44f00",
-  "sample_size_bytes": 20356,
+  "sample_sha256": "9edd9d196e75decc44a9049994265400133343d7412d950340c0eb84b3af4ab4",
+  "sample_size_bytes": 20351,
   "total_records": 1,
-  "updated_at": "2026-04-15T08:50:13.513702+00:00"
+  "updated_at": "2026-04-22T16:21:26.194970+00:00"
 }
