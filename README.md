@@ -9,9 +9,9 @@
 | Dataset ID | `404205` |
 | Location | Vermont |
 | Category | Restaurants |
-| Full dataset size | 1 records |
-| Free sample size | 1 records (100.0%) |
-| Last export | 2026-04-22T16:21:26.194970+00:00 |
+| Full dataset size | 3 records |
+| Free sample size | 1 records (33.33%) |
+| Last export | 2026-04-29T16:24:59.760008+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/tech-ready-restaurants-in-vermont-us-sample-404205/releases/download/sample-latest/beamstation_404205_restaurants-us-vt_SAMPLE_DIST.csv) |
 
 ## What is in this sample
