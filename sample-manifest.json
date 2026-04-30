@@ -1,12 +1,12 @@
 {
-  "export_job_id": "0ad2f83a-6d57-4b9c-ba5f-b3ea5800c152",
+  "export_job_id": "bf9e4020-2dff-41fc-81b6-ba22bdf9f30d",
   "id_short": 404205,
-  "published_at": "2026-04-22T19:41:08Z",
+  "published_at": "2026-04-30T07:23:45Z",
   "repo_name": "tech-ready-restaurants-in-vermont-us-sample-404205",
   "sample_asset_name": "beamstation_404205_restaurants-us-vt_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/404205/beamstation_404205_restaurants-us-vt_SAMPLE_DIST.csv",
   "sample_records": 1,
-  "sample_sha256": "9edd9d196e75decc44a9049994265400133343d7412d950340c0eb84b3af4ab4",
-  "sample_size_bytes": 20351,
-  "total_records": 1
+  "sample_sha256": "8fb9e53c9ae2ddb623e5d6970ac91833c0a594a8baf16cd0c9e2393b052dfb0f",
+  "sample_size_bytes": 20105,
+  "total_records": 3
 }
